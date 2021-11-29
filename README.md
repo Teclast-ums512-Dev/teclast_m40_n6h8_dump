@@ -17,4 +17,4 @@
 - Screen Density: undefined
 - Fingerprint: rockchip/rk312x/rk312x:6.0.1/MXC89K/user.fyl.20170927.202757:userdebug/test-keys
 - Branch: ums512_1h10__p30_2g-user-10-QP1A.190711.020-47206-release-keys
-- Repo: teclast_m40_n6h8_dump
+- Все файлы находятся здесь: https://gitlab.com/Hadenix1/teclast_m40_n6h8_dump (git не пропускает большие файлы)
