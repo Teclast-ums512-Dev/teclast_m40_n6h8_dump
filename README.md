@@ -1,5 +1,5 @@
 ## Device picture
-<img src="https://cdn-files.kimovil.com/default/0006/26/thumb_525924_default_big.jpeg"/>
+<img src="https://cdn-files.kimovil.com/default/0005/39/thumb_438836_default_big.jpeg"/>
 
 ## ums512_1h10__p30_2g-user 10 QP1A.190711.020 47206 release-keys
 - Manufacturer: teclast
